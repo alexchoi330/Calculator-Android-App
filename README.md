@@ -3,3 +3,7 @@ kivy, kivymd, pillow, python 3
 
 - ubuntu used, vscode used
 - to convert python file main.py to apk (android app installation file), i used Buildozer to build the apk file. 
+
+
+- Todo:
+-   need to upload onto app store so it's downloadable to public
