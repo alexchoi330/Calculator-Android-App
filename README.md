@@ -5,7 +5,7 @@ kivy, kivymd, pillow, python 3 ubuntu (linux)
 - to convert python file main.py to APk (android app installation file), i used Buildozer to build the apk file.
 - installed all the dependencies, initializing buildozer then edit specs file.
 
-- run these: (ONLY FOR WINDOWS)
+# run these: (ONLY FOR WINDOWS)
 -   pip3 install --user --upgrade buildozer
 -   sudo apt update
 -   sudo apt install -y git zip unzip openjdk-17-jdk python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev libtinfo5 cmake libffi-dev libssl-dev
@@ -15,5 +15,9 @@ kivy, kivymd, pillow, python 3 ubuntu (linux)
 -   export PATH=$PATH:~/.local/bin/
 
 
-- Todo:
+# Todo:
 -   need to deploy the apk on to a cloud platform, android app store.
+
+
+# Future
+- consider using google colab, as it is faster to convert to apk file
