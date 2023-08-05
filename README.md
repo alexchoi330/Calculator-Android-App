@@ -1,7 +1,7 @@
 # Calculator-Android-App
-kivy, kivymd, pillow, python 3 
+kivy, kivymd, pillow, python 3 ubuntu (linux)
 
-- ubuntu (linux)virtual machine (need at least 4gb of free RAM space for VM system) used, vscode used
+- virtual machine (need at least 4gb of free RAM space for VM system) needs to be set up OR WSL Windows Subsystem Linux which I used for this project on Ubuntu linux system (but still need around 3-4gb of free RAM to run ubuntu VM)
 - to convert python file main.py to APk (android app installation file), i used Buildozer to build the apk file.
 - installed all the dependencies, initializing buildozer then edit specs file.
 
