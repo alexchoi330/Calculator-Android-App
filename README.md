@@ -21,3 +21,4 @@ kivy, kivymd, pillow, python 3 ubuntu (linux)
 
 # Future
 - consider using google colab, as it is faster to convert to apk file
+- https://colab.research.google.com/gist/kaustubhgupta/0d06ea84760f65888a2488bac9922c25/kivyapp-to-apk.ipynb
