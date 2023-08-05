@@ -14,6 +14,10 @@ kivy, kivymd, pillow, python 3 ubuntu (linux)
 - add the following line at the end of your ~/.bashrc file
 -   export PATH=$PATH:~/.local/bin/
 
+# initialize and run buildozer
+- !buildozer init
+- in buildozer.spec file, make sure to add the requirements = python3, kivy==2.0.0, kivymd, pillow (kivymd depends on pillow/PIL package
+- !buildozer -v android debug
 
 # Todo:
 -   need to deploy the apk on to a cloud platform, android app store.
